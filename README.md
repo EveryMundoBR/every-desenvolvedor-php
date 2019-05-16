@@ -1,7 +1,7 @@
 <img src="https://every.is/wp-content/uploads/2018/02/Logos-Vermelho.png" alt="Every" width="200px" >
 
 ## Teste para Desenvolvedor PHP - Every
-> Esse processo seletivo possui duas partes: a primeira é teste de lógica (esse que você está fazendo) e a segunda parte nós entraremos em contato para falar um pouco sobre você e sobre o teste que voc enviou. 
+> Esse processo seletivo possui duas partes: a primeira é teste de lógica (esse que você está fazendo) e a segunda parte nós entraremos em contato para batermos um papo sobre você e sobre o teste que você enviou. 
 
 Através desse teste iremos avaliar os seguintes pontos técnicos:
 - Sua organização de código
