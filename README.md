@@ -31,7 +31,7 @@ O uso de bibliotecas é liberado, o uso de *frameworks* não.
 
 ## Envio
 
-Faça um fork desse repositório e commite seu teste, você pode fazer o pull ou passar a URL do repositório pra nós.
+Faça um fork desse repositório e commite seu teste, você pode fazer pull request ou passar a URL do repositório pra nós.
 
 ## Tempo
 
