@@ -1,5 +1,5 @@
 ## Teste para Desenvolvedor PHP - Every
-> Esse processo seletivo possui duas partes: a primeira um teste de lógica (esse que você está fazendo) e a segunda parte nós entraremos em contato para falar sobre você e sobre o teste. 
+> Esse processo seletivo possui duas partes: a primeira é teste de lógica (esse que você está fazendo) e a segunda parte nós entraremos em contato para falar um pouco sobre você e sobre o teste que voc enviou. 
 
 Através desse teste iremos avaliar os seguintes pontos técnicos:
 - Sua organização de código
@@ -13,7 +13,7 @@ Através desse teste iremos avaliar os seguintes pontos técnicos:
 Desenvolva uma aplicação em PHP puro que possua as seguintes rotas:
 
 - **GET** /ceps
-> Essa URL deve retornar os últimos 10 CEPs.
+> Essa URL deve retornar os últimos 10 CEPs do banco de dados.
 - **GET** /ceps/{cepEspecifico}
 > Essa URL deve retornar dados de um CEP específico no banco de dados.
 
@@ -33,4 +33,4 @@ Faça um fork desse repositório e commite seu teste, você pode fazer o pull ou
 
 ## Tempo
 
-Após recebido esse teste, você possui 3 dias úteis para terminar.
+Após recebido esse teste, você possui 3 dias úteis para o envio.
